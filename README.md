@@ -1,1 +1,3 @@
-# Work-With-Arrays-
+# Java-Projects 
+
+A collection of all java projects 
