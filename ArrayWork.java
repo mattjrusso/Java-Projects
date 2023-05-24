@@ -96,5 +96,4 @@ public class ArrayWork {
 
         return JOptionPane.showInputDialog(menumsg).toLowerCase().charAt(0);
     }
-
 } // ends class
